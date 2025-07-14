@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/license-AGPLv3-blue.svg)](https://github.com/gagatek-dev/gagatek/blob/main/LICENSE)
 [![Star on GitHub](https://img.shields.io/github/stars/gagatek-dev/gagatek?style=social)](https://github.com/gagatek-dev/gagatek)
 
-**Gagatek is a new, embedded, columnar analytical engine (OLAP) built on the first principles of computer science. Its goal is to deliver absurd analytical performance with radically low resource consumption.**
+**Gagatek is a new, embedded, columnar analytical engine (OLAP) designed for high-performance, real-time analytics where speed is paramount. Built on first principles, its goal is to deliver absurd analytical performance with radically low resource consumption.**
 
 It is a direct response to the growing complexity and bloat of modern data systems.
 
@@ -25,6 +25,18 @@ Gagatek doesn't try to be everything to everyone. It is designed to do one thing
 * 💡 **Radical Simplicity:** A minimalist core, zero external dependencies, and distribution as a single, native binary. Gagatek is designed to be effortlessly embedded into any application—from PHP and Java to React Native.
 
 * 🧠 **Efficient by Design:** Engineered from the ground up for a minimal memory and CPU footprint. It's ideal for edge computing, IoT devices, mobile applications, and anywhere else where resources are precious.
+
+### Ideal Use Cases
+
+Gagatek is built for scenarios where immediate data insights create a competitive advantage.
+
+* **⚡ Real-Time Analytics Dashboards:** Power interactive, sub-second dashboards directly from raw data without the need for complex, slow, and expensive data warehousing infrastructure.
+
+* **🛒 Next-Generation E-commerce:** Enable dynamic pricing, real-time fraud detection, and instant sales reporting without slowing down the main transactional database. Give your store an analytical edge.
+
+* **🧑‍💻 Interactive Data Exploration for Professionals:** Empower analysts, data scientists, and business leaders to explore large datasets on their own machines. Get answers in milliseconds, not minutes, and make data-driven decisions faster than ever before.
+
+* **📱 Embedded Analytics (IoT & Mobile):** Perform complex analytics directly on edge devices or in mobile applications, providing powerful insights without relying on a constant cloud connection.
 
 ### Project Status
 
